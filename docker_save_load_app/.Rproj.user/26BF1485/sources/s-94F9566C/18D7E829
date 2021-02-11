@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1613022493066.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "18D7E829",
+    "lastKnownWriteTime" : 1613022606,
+    "last_content_update" : 1613022606153,
+    "path" : "~/Documents/MCKPlatform/docker_workspace/docker_save_app/Dockerfile",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "23,45",
+        "scrollLine" : "2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}
